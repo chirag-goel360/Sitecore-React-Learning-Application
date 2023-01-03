@@ -1,0 +1,55 @@
+﻿---
+ID: "1759ed99-10ba-51f5-ab45-30cb3c151a35"
+Parent: "88673210-edb8-533e-99d5-87327c7022da"
+Template: "12316899-256a-5179-a94a-6870d252ebb1"
+Path: "/sitecore/content/reactapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T135414Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "57a48cec-b45a-5f02-805b-0cc516d95aa2"
+      Hint: heading
+      Value: Item Link
+    - ID: "5e61f3f4-09cc-5dc5-a6ec-f2acc77c221a"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1c98f34-af07-4e42-a3bf-ee3be9d148f5"
+    - ID: "9498d7ef-e10f-5207-93cb-31f49fe4c157"
+      Hint: sharedItemLink
+      Value: "{267CC6D9-8EA2-5F48-9628-67694D2AA905}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230103T135414Z
+    - ID: "dafb293e-3f4c-58a9-99f2-50b462aeb2da"
+      Hint: localItemLink
+      Value: "{7E4AC275-82A2-5714-9497-DEBAB1AB57D9}"

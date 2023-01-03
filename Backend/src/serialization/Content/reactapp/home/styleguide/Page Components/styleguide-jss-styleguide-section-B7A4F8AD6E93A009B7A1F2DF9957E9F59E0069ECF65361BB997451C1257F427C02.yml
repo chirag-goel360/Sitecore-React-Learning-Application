@@ -1,0 +1,49 @@
+﻿---
+ID: "b6a9a9fe-2f2b-5aae-9148-d84624055f9a"
+Parent: "88673210-edb8-533e-99d5-87327c7022da"
+Template: "0cbd7832-9779-5636-a0ba-d55b43481819"
+Path: "/sitecore/content/reactapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7A4F8AD6E93A009B7A1F2DF9957E9F59E0069ECF65361BB997451C1257F427C02"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T135414Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "57a48cec-b45a-5f02-805b-0cc516d95aa2"
+      Hint: heading
+      Value: Date
+    - ID: "5e61f3f4-09cc-5dc5-a6ec-f2acc77c221a"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        
+    - ID: "6f5e05aa-ca87-535e-8300-ead872d6a704"
+      Hint: dateTime
+      Value: 20180314T150000Z
+    - ID: "71f980f4-a0ed-52f5-a679-d46236396ee1"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "748b24e6-94f3-4f1c-b9f3-0d3b4b3e9a1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230103T135414Z

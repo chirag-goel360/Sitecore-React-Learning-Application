@@ -1,0 +1,56 @@
+﻿---
+ID: "6cab8e61-f5f1-5870-9286-85b4a1cf1936"
+Parent: "88673210-edb8-533e-99d5-87327c7022da"
+Template: "a82a70f8-89e0-50f7-93c8-6f4fa8f5ba9d"
+Path: "/sitecore/content/reactapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T135414Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "4487f459-b2b5-5fec-9241-ebbb2c89089e"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "57a48cec-b45a-5f02-805b-0cc516d95aa2"
+      Hint: heading
+      Value: General Link
+    - ID: "5e61f3f4-09cc-5dc5-a6ec-f2acc77c221a"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b418a189-74dc-487e-a519-0df67f2484ba"
+    - ID: "ba549a02-45eb-558e-ab0a-d0b45fc624dc"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d59d044b-98f8-5e7c-b012-6d98bfc80a90"
+      Hint: paramsLink
+      Value: |
+        <link class="font-weight-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230103T135414Z
+    - ID: "dd20f3f7-8975-5181-b17b-d4805ccd5e9d"
+      Hint: internalLink
+      Value: |
+        <link id="{C99FF073-3794-5781-A0FC-257E7587E77D}" linktype="internal" />

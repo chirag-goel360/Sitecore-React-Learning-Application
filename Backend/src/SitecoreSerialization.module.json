@@ -1,0 +1,35 @@
+{
+	"namespace": "ReactApp",
+	"items": {
+		"includes": [
+			{
+				"name": "Content",
+				"path": "/sitecore/content/reactapp"
+			},
+			{
+				"name": "Layouts",
+				"path": "/sitecore/layout/Layouts/Project/reactapp"
+			},
+			{
+				"name": "Placeholder Settings",
+				"path": "/sitecore/layout/Placeholder Settings/Project/reactapp"
+			},
+			{
+				"name": "Renderings",
+				"path": "/sitecore/layout/Renderings/Project/reactapp"
+			},
+			{
+				"name": "Media Library",
+				"path": "/sitecore/media library/reactapp"
+			},
+			{
+				"name": "API Key",
+				"path": "/sitecore/system/Settings/Services/API Keys/ReactApp"
+			},
+			{
+				"name": "Templates",
+				"path": "/sitecore/templates/Project/reactapp"
+			}
+		]
+	}
+}

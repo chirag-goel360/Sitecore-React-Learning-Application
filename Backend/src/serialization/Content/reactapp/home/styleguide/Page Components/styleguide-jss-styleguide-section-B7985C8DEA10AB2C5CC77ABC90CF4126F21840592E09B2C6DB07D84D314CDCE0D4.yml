@@ -1,0 +1,59 @@
+﻿---
+ID: "02bdb11b-5aab-58a6-ae11-83aadd783e56"
+Parent: "88673210-edb8-533e-99d5-87327c7022da"
+Template: "0d843d91-7778-58c8-a14c-6e7848bfe21d"
+Path: "/sitecore/content/reactapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08b5fc66-0cc5-51f2-a5e3-56088a90a644"
+      Hint: localContentList
+      Value: |
+        {F116A53A-76AB-5206-8C01-97C402A78407}
+        {4F8B0211-1CE6-5023-B3F5-6DEDECAADA9D}
+    - ID: "1bc1d72b-0620-5b57-8027-4862661dfcdf"
+      Hint: sharedContentList
+      Value: |
+        {C7ECF03A-6B60-5280-8351-64883FD35750}
+        {0D867EB8-E026-5380-9D58-0669C09E87E1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230103T135414Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "57a48cec-b45a-5f02-805b-0cc516d95aa2"
+      Hint: heading
+      Value: Content List
+    - ID: "5e61f3f4-09cc-5dc5-a6ec-f2acc77c221a"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21c5d18d-e5f4-4424-be33-ffff5c83d3b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230103T135414Z
