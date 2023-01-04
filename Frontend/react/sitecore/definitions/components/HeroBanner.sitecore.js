@@ -3,7 +3,7 @@ import { CommonFieldTypes, SitecoreIcon } from '@sitecore-jss/sitecore-jss-dev-t
 export default function (manifest) {
   manifest.addComponent({
     name: 'HeroBanner',
-    icon: SitecoreIcon.DocumentTag,
+    icon: SitecoreIcon.Home,
     params: [
       { name: 'ImageOnRight', type: CommonFieldTypes.Checkbox },
       { name: 'BackgroundColor', type: CommonFieldTypes.SingleLineText },

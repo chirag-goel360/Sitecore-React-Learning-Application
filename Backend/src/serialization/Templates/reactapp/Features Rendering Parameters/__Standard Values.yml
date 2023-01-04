@@ -1,18 +1,12 @@
 ﻿---
-ID: "accb27c0-deef-5ee8-9068-79e54ed11ab9"
-Parent: "3c8dbe5d-2371-53c2-bfbd-6ae60475def5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/reactapp/HeroBanner
+ID: "44bb0435-4296-57b6-af5a-803d44f25829"
+Parent: "41e1ae47-0804-5b47-9e17-9e1bcc6e8273"
+Template: "41e1ae47-0804-5b47-9e17-9e1bcc6e8273"
+Path: /sitecore/templates/Project/reactapp/Features Rendering Parameters/__Standard Values
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Office/16x16/home.png
-- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
-  Hint: __Read Only
-  Value: 1
-- ID: "f7d48a55-2158-4f02-9356-756654404f73"
-  Hint: __Standard values
-  Value: "{30C86202-FA9A-5CCF-AB8B-BDB01632EDBE}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 Languages:
 - Language: en
   Versions:
@@ -20,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230104T050853Z
+      Value: 20230104T122819Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,7 +25,7 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "182b8252-632d-4061-8a5a-35146cd8e477"
+      Value: "ec54f67d-2a45-4c2d-8a6e-57f442ff8576"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
