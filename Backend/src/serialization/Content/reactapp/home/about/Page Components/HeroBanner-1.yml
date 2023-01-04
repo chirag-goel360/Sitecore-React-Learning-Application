@@ -1,0 +1,72 @@
+﻿---
+ID: "4e6aa1c5-9147-41ee-9bdd-36f3cf61019c"
+Parent: "0bf451c4-17bb-4677-b397-f920e8694f75"
+Template: "accb27c0-deef-5ee8-9068-79e54ed11ab9"
+Path: "/sitecore/content/reactapp/home/about/Page Components/HeroBanner-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1362acae-87b6-5590-b54f-7c04b6ec8ee5"
+      Hint: BannerTitle
+      Value: About Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230104T071659Z
+    - ID: "2c1b86a6-7b1d-5436-a57e-bf98f03db7a1"
+      Hint: BannerSubTitle
+      Value: The Most Trusted Cryptocurrency Platform
+    - ID: "2ed3fa6d-5874-5c3b-84dd-6975f6687585"
+      Hint: BannerDescription
+      Value: |
+        <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+        <div class="d-flex align-items-center mb-2">
+        <em class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></em>
+        <span>Tempor erat elitr rebum at clita</span>
+        </div>
+        <div class="d-flex align-items-center mb-2">
+        <em class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></em>
+        <span>Tempor erat elitr rebum at clita</span>
+        </div>
+        <div class="d-flex align-items-center mb-4">
+        <em class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></em>
+        <span>Tempor erat elitr rebum at clita</span>
+        </div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21338e9f-6193-4f00-8bff-a705430452f7"
+    - ID: "aa53b846-e98b-5a26-9d4b-f5057555d452"
+      Hint: BannerLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{C99FF073-3794-5781-A0FC-257E7587E77D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cdd6bb7c-ae49-52a1-8125-e200aeeda5f6"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{DBA90158-3F2E-41A8-A7EE-29DF36B873C1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230104T073925Z
