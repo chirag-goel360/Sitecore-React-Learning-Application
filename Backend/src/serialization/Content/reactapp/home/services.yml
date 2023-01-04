@@ -1,0 +1,65 @@
+﻿---
+ID: "25589fb8-cb39-4a6b-adf2-12e30574d425"
+Parent: "c99ff073-3794-5781-a0fc-257e7587e77d"
+Template: "170d0877-5c9e-5ed5-9bc7-a3220fdb7850"
+Path: /sitecore/content/reactapp/home/services
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{482D68C5-7991-4B88-B14E-DA15EFF34624}"
+          p:after="*[1=2]"
+          s:ds="{144BEBD9-98A1-42E1-B1DA-0A31F2CB53AB}"
+          s:id="{EFAA3E01-791F-5925-8AE0-346248544890}"
+          s:par="BackgroundColor=bg-light&amp;GridParameters&amp;FieldNames&amp;Styles"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "41c6cc0e-389f-4d51-9990-fe35417b6666"
+    Hint: __Preview
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230104T145002Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4351d5ed-8db6-475b-9ec9-922208bf8389"
+    - ID: "ba278c2f-e4b9-5171-b872-82468bebecb1"
+      Hint: pageTitle
+      Value: Services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230104T150117Z

@@ -1,0 +1,58 @@
+﻿---
+ID: "56cf61cc-7b13-44df-aea9-003e2d158296"
+Parent: "f4ae5b92-840f-465f-a77e-821e66ee6ac4"
+Template: "2fe6ab80-ae30-5efc-8f74-9acb6c7d79f6"
+Path: /sitecore/content/reactapp/Content/ServicesList/Currency Exchange
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05a51ce6-6e5e-53ef-bd2a-1de7752dd9a4"
+      Hint: ItemDescription
+      Value: Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230104T145656Z
+    - ID: "2d2bf2f2-b39c-58ac-bd12-4c875ff3adf8"
+      Hint: ItemLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{C99FF073-3794-5781-A0FC-257E7587E77D}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "50229f39-6e0e-51e0-a79f-18743c5acbeb"
+      Hint: ItemImage
+      Value: |
+        <image mediaid="{E4661044-697F-4C7D-A7D1-F3A213349B92}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "557a7aac-12b1-5ec7-a1cd-21b3d6230f6f"
+      Hint: ItemTitle
+      Value: Currency Exchange
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a707f49-a283-4fcb-ab2d-6478eff77e38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230104T145816Z

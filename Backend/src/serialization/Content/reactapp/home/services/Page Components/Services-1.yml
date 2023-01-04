@@ -1,0 +1,56 @@
+﻿---
+ID: "144bebd9-98a1-42e1-b1da-0a31f2cb53ab"
+Parent: "da035036-b424-4e72-af1d-da65cf998b50"
+Template: "576593f8-6934-5fb7-a6fd-c66195205f0f"
+Path: "/sitecore/content/reactapp/home/services/Page Components/Services-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230104T150050Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4d3b09d-a863-4001-bb0f-45e55cca45b3"
+    - ID: "ad9d2414-b583-5817-987e-f3c6c89c7f06"
+      Hint: ServiceSubTitle
+      Value: Buy, Sell And Exchange Cryptocurrency
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230104T150219Z
+    - ID: "e01b3662-1170-55a1-b4c9-058b03d80c24"
+      Hint: ServiceList
+      Value: |
+        {17F6A678-AF13-401E-8D6A-12838C6A812E}
+        {64AECF93-9CAA-435E-9231-19CBD1E3EC08}
+        {6C8669E9-F6F8-4989-837A-654F12B2FFAC}
+        {56CF61CC-7B13-44DF-AEA9-003E2D158296}
+        {7A8BDBE8-2EB2-42E2-A57B-DDC3019F69E0}
+        {55A0A01C-2058-4571-86F5-6194CCC469F9}
+    - ID: "f9f2e988-4b21-50e3-8693-b28393867662"
+      Hint: ServiceTitle
+      Value: Services

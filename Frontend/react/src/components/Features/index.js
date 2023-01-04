@@ -15,9 +15,7 @@ const Features = (props) => {
             <p className="text-primary fs-5 mb-5">
               <Text field={props.fields.FeatureSubTitle} />
             </p>
-            <p className="text-primary fs-5 mb-5">
-              <Text field={props.fields.FeatureDescription} />
-            </p>
+            <RichText field={props.fields.FeatureDescription} />
           </div>
           <div className="row g-5">
             {FeatureList &&
