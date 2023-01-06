@@ -1,0 +1,58 @@
+﻿---
+ID: "6ff46eab-6ac2-4488-8b12-8261aad2327a"
+Parent: "9c1ad48c-e3aa-491f-ab9a-59cbc6524976"
+Template: "68af2084-ac3b-5596-b703-4422bb84e419"
+Path: "/sitecore/content/reactapp/home/pages/faq/Page Components/FrequentQuestions-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T084122Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c12db517-b0e2-4498-b704-a3801a1776f6"
+    - ID: "b0b63221-da4c-5530-826c-294706e506ba"
+      Hint: QuestionsList
+      Value: |
+        {CD5B7B36-9A94-4694-921E-5FD1E7EBCE28}
+        {DF702616-82A6-4745-90F4-C19F5F20A0C4}
+        {770C80FA-A6F3-4710-9364-F16C75967A53}
+        {2721AA2A-5A95-4AA5-A47E-47E7799591B4}
+        {6765893F-F8F6-4242-AD29-E25CCFBCF667}
+        {13C11553-95CA-4072-A156-E04C55DAB382}
+        {2322D63B-04E8-4DE6-AA57-03B4C8A33B68}
+        {2A60BDBD-0547-46CC-ACB0-961B8F5878C9}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c037864b-f3a5-52da-8608-b608653e415b"
+      Hint: FrequentQuestionsDescription
+      Value: Frequently Asked Questions
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T084812Z
+    - ID: "e561ff0c-09e1-58f3-9541-504223a4d7cc"
+      Hint: FrequentQuestionsTitle
+      Value: FAQs

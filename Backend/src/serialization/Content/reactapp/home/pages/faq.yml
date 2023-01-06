@@ -1,0 +1,61 @@
+﻿---
+ID: "e360a1a3-795f-4ef2-95a9-6fc22d83d2d2"
+Parent: "bf6c5cec-ff88-4d93-bf25-78e42cfbf55b"
+Template: "170d0877-5c9e-5ed5-9bc7-a3220fdb7850"
+Path: /sitecore/content/reactapp/home/pages/faq
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DDC879ED-0A82-463B-9DAC-14B1C0AA1476}"
+          p:after="*[1=2]"
+          s:ds="{6FF46EAB-6AC2-4488-8B12-8261AAD2327A}"
+          s:id="{BA96801C-1B3A-5456-AC87-A0C5C1CAB412}"
+          s:par="BackgroundColor&amp;GridParameters&amp;FieldNames&amp;Styles"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230106T084049Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6cb05ca1-c06c-4fc0-8028-85144bce8153"
+    - ID: "ba278c2f-e4b9-5171-b872-82468bebecb1"
+      Hint: pageTitle
+      Value: FAQs
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230106T084816Z

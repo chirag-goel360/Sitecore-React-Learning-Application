@@ -1,0 +1,53 @@
+﻿---
+ID: "b98191be-b06d-41d7-94c4-66e51ef10290"
+Parent: "8a0277be-1234-5e6e-8bae-885f1fce8ab2"
+Template: "fc64cbc8-7396-5646-804c-b3fbb1d5707e"
+Path: "/sitecore/content/reactapp/home/Page Components/Features-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20e2f5c6-a628-5d3b-9ee9-81c4ff316f25"
+      Hint: FeatureList
+      Value: |
+        {052417EA-E8E5-496B-BE11-B30FA7D6A846}
+        {E0540D8C-E620-466C-82F0-ABBF99642EF0}
+        {B5A6030F-E238-4A52-AC70-1538F78EB6BD}
+        {47916495-5E53-4357-8039-AA4D45697144}
+        {B27BA12E-268F-467F-8660-D20BF1119B12}
+        {3FFD7887-B873-43EC-9B6C-CCE937709D56}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230104T123815Z
+    - ID: "28dd54f9-1673-527c-a7ed-2615cc0cc0a8"
+      Hint: FeatureTitle
+      Value: "Why Us!"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dca96560-6592-4edd-b870-04d38e359a97"
+    - ID: "9538b42f-68bd-5e69-83c3-2b951d76747a"
+      Hint: FeatureSubTitle
+      Value: The Best In The crypto Industry
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230105T060849Z
