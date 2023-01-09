@@ -22,19 +22,23 @@ const FrequentQuestions = (props) => {
                 {QuestionsList &&
                   QuestionsList.map((listItem, index) => (
                     <div className="accordion-item fadeInUp" key={`QuestionsList-${index}`}>
-                      <h2 className="accordion-header">
+                      <h2 className="accordion-header" id={`heading${index}`}>
                         <button
-                          className="accordion-button"
+                          className="accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
                           aria-expanded="true"
+                          data-bs-target={`#collapse${index}`}
+                          aria-controls={`collapse${index}`}
                         >
                           <RichText field={listItem.fields.Question} />
                         </button>
                       </h2>
                       <div
                         className="accordion-collapse collapse"
+                        id={`collapse${index}`}
                         data-bs-parent="#accordionExample"
+                        aria-labelledby={`heading${index}`}
                       >
                         <div className="accordion-body">
                           <RichText field={listItem.fields.Answer} />
