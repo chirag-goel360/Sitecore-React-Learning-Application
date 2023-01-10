@@ -55,6 +55,14 @@ SharedFields:
           s:ph="jss-main"
           s:ccb="Clear on publish" />
         <r
+          uid="{0497AEE1-74B0-48DA-AE3B-F25C6187F130}"
+          p:after="r[@uid='{E34D9EE9-3784-4B94-82E8-15635D12C08C}']"
+          s:ds="{68301EAD-4C16-46BF-9731-EA244F65B3DA}"
+          s:id="{AFDEBD57-F69E-5869-BB76-3AC813152CBC}"
+          s:par="BackgroundColor=bg-light&amp;GridParameters&amp;FieldNames&amp;Styles"
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
           uid="{BDE92AEF-5B9D-405D-BFB0-01831493853D}"
           p:after="*[1=2]"
           s:ds="{A46165CF-126A-4A6B-9173-263CA5734ED9}"
@@ -80,7 +88,7 @@ Languages:
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "567f392d-c218-44ff-ab46-74bd808db0aa"
+      Value: "cabbfe46-3772-4148-83b2-f17ed29d30fb"
     - ID: "ba278c2f-e4b9-5171-b872-82468bebecb1"
       Hint: pageTitle
       Value: CryptoCoin
@@ -90,4 +98,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230106T110252Z
+      Value: 20230110T064239Z

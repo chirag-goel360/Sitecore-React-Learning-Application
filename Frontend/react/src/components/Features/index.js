@@ -1,5 +1,8 @@
 import React from 'react';
 import { Text, RichText, Image } from '@sitecore-jss/sitecore-jss-react';
+import '../../assets/CSS/animate.min.css';
+import '../../assets/CSS/bootstrap.min.css';
+import '../../assets/CSS/style.css';
 
 const Features = (props) => {
   const backgroundColor = props?.params?.BackgroundColor ? props.params.BackgroundColor : '';

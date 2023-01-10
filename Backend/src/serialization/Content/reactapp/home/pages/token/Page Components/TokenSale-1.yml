@@ -1,0 +1,70 @@
+﻿---
+ID: "adafdd44-856f-4713-98eb-95ba07793c6b"
+Parent: "ad027650-9741-4eaa-bab3-626d28729ff8"
+Template: "e06f29bb-dc84-5cc2-80b6-34cfa1cc7ad1"
+Path: "/sitecore/content/reactapp/home/pages/token/Page Components/TokenSale-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230110T063932Z
+    - ID: "2763a0a4-4749-58b2-8b80-85856895af96"
+      Hint: SecondsCount
+      Value: 0
+    - ID: "3d7ce419-bcab-5400-97ce-79e22053441c"
+      Hint: MinutesCount
+      Value: 0
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "54747398-d31e-5d1a-a493-f874c219441d"
+      Hint: TokenTitle
+      Value: Token Sale
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e3f43ba-1126-4daa-b3be-5a12a6d98bed"
+    - ID: "8e173836-75b3-5d6e-99df-3968a8f6223b"
+      Hint: ButtonLink
+      Value: |
+        <link text="Buy Token" anchor="" linktype="internal" class="" title=""  querystring="" id="{C99FF073-3794-5781-A0FC-257E7587E77D}" />
+    - ID: "8f8d1fe6-cdf7-51a4-ba0b-3e7c89c57730"
+      Hint: TokenSubTitle
+      Value: Token Sale Countdown
+    - ID: "a0922174-0c77-5509-9705-e47184224b6d"
+      Hint: HoursCount
+      Value: 0
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c75d9998-ee9b-5b41-abac-39d0c80d3691"
+      Hint: DaysCount
+      Value: 0
+    - ID: "cdd4645e-ed55-5826-af2e-8da99383cc95"
+      Hint: TokenImages
+      Value: |
+        {D5761F27-8255-4695-98E8-142698E62353}
+        {C7D1CECC-DB62-410D-9AD9-1E5B95D76A5A}
+        {DDC8B73A-0007-4E72-B1AA-84C02C720D1E}
+        {3251ABE4-B9EB-49AD-9B04-C74669C3E978}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230110T064029Z
